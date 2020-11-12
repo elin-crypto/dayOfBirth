@@ -1,0 +1,12 @@
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/bin/Debug/netcoreapp3.1/moment2.deps.json
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/bin/Debug/netcoreapp3.1/moment2.runtimeconfig.json
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/bin/Debug/netcoreapp3.1/moment2.runtimeconfig.dev.json
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/bin/Debug/netcoreapp3.1/moment2.dll
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/bin/Debug/netcoreapp3.1/moment2.pdb
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.csprojAssemblyReference.cache
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.AssemblyInfoInputs.cache
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.AssemblyInfo.cs
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.csproj.CoreCompileInputs.cache
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.dll
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.pdb
+/Users/elinkurtsdotter/Documents/Webbutveckling/År 2/ht 20/C#/moment2/obj/Debug/netcoreapp3.1/moment2.genruntimeconfig.cache
