@@ -5,7 +5,7 @@ namespace moment2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Vilken veckodag du är född?");
             Console.WriteLine("Skriv ditt födelsedatum i formatet YYYY-MM-DD och tryck på enter!");
@@ -31,7 +31,13 @@ namespace moment2
                 // gives the weekday as a number 0-6 starting saturday
                 int weekday = (day + ((13*(month+1))/5) + yearYY + (yearYY/4) + (centuary/4) + 5*centuary ) % 7;
 
+                // Array with names of weekdays
+                string[] arrayName = {"lördag", "söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag"};
+
+                System.Console.WriteLine($"Du är född på en {arrayName[weekday]}!");
+
                 // Translate weekday 0-6 to string saturday - friday
+                /*
                 switch(weekday)
                 {
                     case 0:
@@ -55,11 +61,12 @@ namespace moment2
                     case 6:
                         System.Console.WriteLine("Du är född på en fredag");
                     break;
-                }
+                }*/
             }
             else
             {
-                Console.WriteLine("Du måste ange datumet i formatet: YYYY-MM-DD, försök igen!");    
+                Console.WriteLine("Du måste ange datumet i formatet: YYYY-MM-DD, försök igen!");   
+                Main(); 
             }
         }
     }
